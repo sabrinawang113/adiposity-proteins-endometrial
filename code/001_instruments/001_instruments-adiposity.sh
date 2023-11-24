@@ -3,7 +3,7 @@
 #SBATCH --job-name=instruments-adiposity
 #SBATCH --nodes=1
 #SBATCH --ntasks-per-node=1
-#SBATCH --time=20-1:0:00
+#SBATCH --time=10-1:0:00
 #SBATCH --mem=100000M
 #SBATCH --partition=low_p
 
